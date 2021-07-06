@@ -1,4 +1,3 @@
-<doctype html>
 <html>
 <head>
     <link rel="stylesheet" href="stylesheet.css">
@@ -7,7 +6,8 @@
 </head>
 <body>
 <h1>Jim Lee</H1>
-
+  <div id= "content">
+    <div id= "title"> speacial offer</div>
 
 
 <img src="https://static3.srcdn.com/wordpress/wp-content/uploads/2021/05/Jim-Lee-DC-Comics.jpg"  width="600"  height="350"/>
